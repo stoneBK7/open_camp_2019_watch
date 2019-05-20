@@ -1,4 +1,4 @@
-Googleドキュメントにボタン機能について詳しくご説明したものを共有しておりますので、こちらも活用下さい(2019/05/20)
+Googleドキュメントにボタン機能について詳しくご説明したものを共有しておりますので、こちらも活用下さい(2019/05/20)<br>
 https://docs.google.com/document/d/1_mpYSjprAOt95W6jEqQIcVKBOab1wrbUCDV1SY6GOD8/edit?usp=sharing
 
 # ワークショップ2 時計を作ってみよう
